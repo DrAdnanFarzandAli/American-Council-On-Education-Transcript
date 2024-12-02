@@ -1,6 +1,7 @@
 # AMERICAN-COUNCIL-ON-EDUCATION-TRANSCRIPT
 
-![AMERICAN COUNCIL AND FIBAA TRANSCRIPT](https://github.com/DrAdnanFarzandAli/AMERICAN-COUNCIL-ON-EDUCATION-TRANSCRIPT)
+[View American Council on Education Transcript](https://github.com/DrAdnanFarzandAli/AMERICAN-COUNCIL-ON-EDUCATION-TRANSCRIPT/blob/main/AMERICAN%20COUNCIL%20%26%20FIBAA%20ON%20EDUCATION%20TRANSCRIP.pdf)
+
 
 ## FIBAA TRANSCRIPT LEGEND 
 This transcript contains credentials certified by FIBAA – Foundation for International Business Administration 
